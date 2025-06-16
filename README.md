@@ -45,6 +45,49 @@ The system uses a relational database structure to ensure data integrity and eas
 
 Refer to the provided database design diagram for more details.
 
+## User Interface
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://github.com/nareshsuthardev/Payroll-Management-System/blob/main/Screenshots/login.png" alt="Screenshot 1" height="500px">
+        <br>
+        <sub><b>Login Screen</b></sub>
+      </td>
+      <td align="center">
+        <img src="https://github.com/nareshsuthardev/Payroll-Management-System/blob/main/Screenshots/dashboard.png" alt="Screenshot 1" height="500px">
+        <br>
+        <sub><b>Dashboard Screen</b></sub>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://github.com/nareshsuthardev/Payroll-Management-System/blob/main/Screenshots/payroll.png" alt="Screenshot 1" height="500px">
+        <br>
+        <sub><b>Payroll Screen</b></sub>
+      </td>
+      <td align="center">
+        <img src="https://github.com/nareshsuthardev/Payroll-Management-System/blob/main/Screenshots/deduction.png" alt="Screenshot 1" height="500px">
+        <br>
+        <sub><b>Deduction Screen</b></sub>
+      </td>
+    </tr>
+        <tr>
+      <td align="center">
+        <img src="https://github.com/nareshsuthardev/Payroll-Management-System/blob/main/Screenshots/position.png" alt="Screenshot 1" height="500px">
+        <br>
+        <sub><b>Role Screen</b></sub>
+      </td>
+      <td align="center">
+        <img src="https://github.com/nareshsuthardev/Payroll-Management-System/blob/main/Screenshots/attendance.png" alt="Screenshot 1" height="500px">
+        <br>
+        <sub><b>Attendance Screen</b></sub>
+      </td>
+    </tr>
+  </table>
+</div>
+
 ## Setup Instructions
 
 1. Clone or download the project files.
