@@ -68,7 +68,7 @@ Refer to the provided database design diagram for more details.
         <sub><b>Payroll Screen</b></sub>
       </td>
       <td align="center">
-        <img src="https://github.com/nareshsuthardev/Payroll-Management-System/blob/main/Screenshots/deduction.png" alt="Screenshot 1" height="200px">
+        <img src="https://github.com/nareshsuthardev/Payroll-Management-System/blob/main/Screenshots/deductiom.png" alt="Screenshot 1" height="200px">
         <br>
         <sub><b>Deduction Screen</b></sub>
       </td>
@@ -80,7 +80,7 @@ Refer to the provided database design diagram for more details.
         <sub><b>Role Screen</b></sub>
       </td>
       <td align="center">
-        <img src="https://github.com/nareshsuthardev/Payroll-Management-System/blob/main/Screenshots/attendance.png" alt="Screenshot 1" height="200px">
+        <img src="https://github.com/nareshsuthardev/Payroll-Management-System/blob/main/Screenshots/attendencebook.png" alt="Screenshot 1" height="200px">
         <br>
         <sub><b>Attendance Screen</b></sub>
       </td>
