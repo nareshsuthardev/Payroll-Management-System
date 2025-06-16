@@ -63,6 +63,18 @@ Refer to the provided database design diagram for more details.
     </tr>
     <tr>
       <td align="center">
+        <img src="https://github.com/nareshsuthardev/Payroll-Management-System/blob/main/Screenshots/createemp.png" alt="Screenshot 1" height="200px">
+        <br>
+        <sub><b>Create Employee Screen</b></sub>
+      </td>
+      <td align="center">
+        <img src="https://github.com/nareshsuthardev/Payroll-Management-System/blob/main/Screenshots/emp.png" alt="Screenshot 1" height="200px">
+        <br>
+        <sub><b>Employee Screen</b></sub>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
         <img src="https://github.com/nareshsuthardev/Payroll-Management-System/blob/main/Screenshots/payroll.png" alt="Screenshot 1" height="200px">
         <br>
         <sub><b>Payroll Screen</b></sub>
